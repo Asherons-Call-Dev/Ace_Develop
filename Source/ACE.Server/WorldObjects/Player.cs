@@ -92,8 +92,8 @@ namespace ACE.Server.WorldObjects
             SetEphemeralValues();
 
             // Make sure properties this WorldObject requires are not null.
-            AvailableExperience = AvailableExperience ?? 0;
-            TotalExperience = TotalExperience ?? 0;
+            AvailableExperience = AvailableExperience ?? 191226310247;
+            TotalExperience = TotalExperience ?? 191226310247;
 
             Attackable = true;
 

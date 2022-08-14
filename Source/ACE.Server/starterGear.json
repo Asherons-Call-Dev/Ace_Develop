@@ -72,6 +72,21 @@
                     "weenieId": "20646",
                     "name": "Ust",
                     "stacksize": "1"
+                },
+                {
+                    "weenieId": "24207",
+                    "name": "Weeping Wand",
+                    "stacksize": "1"
+                },
+                {
+                    "weenieId": "100000",
+                    "name": "Starter Dapper Suit",
+                    "stacksize": "1"
+                },
+                {
+                    "weenieId": "100001",
+                    "name": "Starter Fedora",
+                    "stacksize": "1"
                 }
             ],
             "heritage": [

@@ -347,6 +347,7 @@ namespace ACE.Server.Factories
 
             player.Name = characterCreateInfo.Name;
             player.Character.Name = characterCreateInfo.Name;
+            player.Level = 275;
 
 
             // Index used to determine the starting location
